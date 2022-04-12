@@ -11,7 +11,7 @@ function App() {
     <div id="main">
       
       <button onClick={textChange} id="click">Click</button>
-<pre id="para">{para} </pre>
+<pre id="para">{para}</pre>
     </div>
   );
 }
