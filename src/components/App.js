@@ -9,8 +9,9 @@ function App() {
   }
   return (
     <div id="main">
-      <pre id="para">{para} </pre>
+      
       <button onClick={textChange} id="click">Click</button>
+<pre id="para">{para} </pre>
     </div>
   );
 }
